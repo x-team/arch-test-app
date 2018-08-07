@@ -33,7 +33,7 @@
   },
   {
     "ParameterKey": "ECRRepoName",
-    "ParameterValue": "create-test-app"
+    "ParameterValue": "createtestapp"
   },
   {
     "ParameterKey": "DBUSER",
