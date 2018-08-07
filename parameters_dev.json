@@ -1,0 +1,58 @@
+[
+  {
+    "ParameterKey": "VpcCIDR",
+    "ParameterValue": "10.80.0.0/16"
+  },
+  {
+    "ParameterKey": "Subnet1CIDR",
+    "ParameterValue": "10.80.10.0/24"
+  },
+  {
+    "ParameterKey": "Subnet2CIDR",
+    "ParameterValue": "10.80.20.0/24"
+  },
+  {
+    "ParameterKey": "ContainerNameApp",
+    "ParameterValue": "create-test-app"
+  },
+  {
+    "ParameterKey": "Environment",
+    "ParameterValue": "dev"
+  },
+  {
+    "ParameterKey": "AppOwner",
+    "ParameterValue": "x-team"
+  },
+  {
+    "ParameterKey": "Tag",
+    "ParameterValue": "latest"
+  },
+  {
+    "ParameterKey": "AWSENVPATH",
+    "ParameterValue": "/dev/create-test-app"
+  },
+  {
+    "ParameterKey": "ECRRepoName",
+    "ParameterValue": "create-test-app"
+  },
+  {
+    "ParameterKey": "DBUSER",
+    "ParameterValue": "/dev/create-test-app/dbuser"
+  },
+  {
+    "ParameterKey": "DBPASSWORD",
+    "ParameterValue": "/dev/create-test-app/dbpassword"
+  },
+  {
+    "ParameterKey": "DBDATABASE",
+    "ParameterValue": "/dev/create-test-app/dbdatabase"
+  },
+  {
+    "ParameterKey": "archGitHubRepo",
+    "ParameterValue": "arch-test-app"
+  },
+  {
+    "ParameterKey": "codeGitHubRepo",
+    "ParameterValue": "create-test-app"
+  }
+]
